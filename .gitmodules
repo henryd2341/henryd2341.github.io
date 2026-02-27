@@ -1,0 +1,3 @@
+[submodule "gochiusa-sim"]
+	path = gochiusa-sim
+	url = https://github.com/henryd2341/gochiusa-sim.git
