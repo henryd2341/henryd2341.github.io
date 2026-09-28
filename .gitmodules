@@ -1,3 +1,7 @@
 [submodule "gochiusa-sim"]
 	path = gochiusa-sim
 	url = https://github.com/henryd2341/gochiusa-sim.git
+
+[submodule "dlnm"]
+	path = dlnm
+	url = https://github.com/henryd2341/dlnm.git
